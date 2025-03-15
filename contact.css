@@ -1,0 +1,55 @@
+body{
+    color: #1ca7a7;
+    background-image: url(img/composicao-de-telefone-rosa-vintage_23-2148913955.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin: 20px;
+}
+
+img {
+    width: 120px;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    color: #097a9c;
+}
+
+h3 {
+    color: #225a6b;
+}
+
+h1 {
+    color: #225a6b;
+}
+
+h2 {
+    color: #225a6b;
+}
+
+footer img {
+    width: 50px;
+    height: 50px;
+}
+
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin: 20px;
+}
+
+.container {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: #0509e6;
+}

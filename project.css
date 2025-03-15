@@ -1,0 +1,31 @@
+body{
+    color: #bfc5bb;
+    background-color: #1a2b1f;
+    background-image: url(img/pexels-danbuilds-633409.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    margin: 30px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(63, 156, 63);
+}
+
+.center {
+    text-align: center;
+}
+
+h1{
+    color: #fdfffd;
+}
+
+footer p {
+    margin: 20px;
+    text-align: center;
+}
+
